@@ -53,6 +53,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+#Extra files
+Desarrollo-Web-FullStack-con-Django-y-React-master (1).zip
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
